@@ -44,7 +44,7 @@ $most_read_articles = $stmt->fetchAll();
 <body class="d-flex flex-column min-vh-100">
 
     <!-- Header -->
-    <?php include "assest/header.php" ?>
+    <?php include "assest/header.php"; ?>
     <!-- </Header> -->
 
     <!-- Main -->
